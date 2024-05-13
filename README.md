@@ -1,0 +1,2 @@
+# bilgisayar
+bilgisayar grafikleri sınav 
